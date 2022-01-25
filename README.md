@@ -1,4 +1,6 @@
 Blocking status :white_check_mark: --Block most Ads without blocking much of the actual youtube </br>
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d9782431-c8d5-4357-b5ae-a4bb479510d8.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/youtube_ads_4_pi-hole?orgId=666444378491)  
 Buy me a coffee via paypal 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/KBoghdady?locale.x=en_US)
 
